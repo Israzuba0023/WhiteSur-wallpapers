@@ -1,3 +1,13 @@
+# WhiteSur Wallpapers (Mirror)
+
+Este repositório contém os wallpapers do tema WhiteSur.
+
+🔗 Repositório original: https://github.com/vinceliuice/WhiteSur-wallpapers
+
+Usado apenas para fins pessoais e educacionais.
+
+
+
 ## Installation
 ### Install Gnome Backgrounds (wallpaper will change according to time)
 
