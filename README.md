@@ -60,7 +60,3 @@ git add README.md
 git commit -m "Adiciona README com créditos e instruções"
 git push origin main
 ```
-
----
-
-Se quiser, também posso criar o `README.md` para um repositório de **ícones** ou **cursores** caso fores espelhar os temas relacionados. Desejas?
