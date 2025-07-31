@@ -1,54 +1,73 @@
-# WhiteSur Wallpapers (Mirror)
 
-Este repositório contém os wallpapers do tema WhiteSur.
+````markdown
+# WhiteSur Wallpapers (Espelho Pessoal)
 
-🔗 Repositório original: https://github.com/vinceliuice/WhiteSur-wallpapers
+Este repositório contém uma cópia pessoal dos wallpapers oficiais do tema **WhiteSur**, inspirados no visual do macOS Big Sur e Monterey.
 
-Usado apenas para fins pessoais e educacionais.
+> 🔗 Repositório original: [https://github.com/vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers)
 
+````
+## 📌 Objetivo
 
+Este repositório foi criado apenas para:
+- Uso pessoal e educacional
+- Armazenamento local dos papéis de parede
+- Documentação e testes em sistemas Linux personalizados
 
-## Installation
-### Install Gnome Backgrounds (wallpaper will change according to time)
+Nenhuma modificação foi feita no conteúdo original.
 
-```sh
-sudo ./install-gnome-backgrounds.sh
+## 🖼️ Como usar
+
+Após clonar ou baixar este repositório:
+
+```bash
+git clone https://github.com/Israzuba0023/WhiteSur-wallpapers.git
+````
+
+Escolha a pasta com a resolução desejada (ex: `4K`, `HD`, etc.) e defina como papel de parede usando seu gerenciador de desktop.
+
+### 🐧 No Ubuntu (GNOME):
+
+```bash
+gsettings set org.gnome.desktop.background picture-uri "file:///CAMINHO/para/o/wallpaper.jpg"
 ```
 
-> Options:
+Substitua `CAMINHO/para/o/wallpaper.jpg` pelo caminho completo da imagem.
 
+## 📄 Licença
+
+As imagens estão sob a mesma licença do repositório original: **GPL v3**, com permissão para uso e redistribuição **com os devidos créditos**.
+
+## 🙏 Créditos
+
+Todos os wallpapers foram criados por [vinceliuice](https://github.com/vinceliuice).
+Este repositório apenas espelha os arquivos originais para facilitar o uso pessoal e educacional.
+
+---
+
+````
+
+---
+
+### ✅ Como adicionar ao GitHub
+
+1. No terminal:
+
+```bash
+cd WhiteSur-wallpapers
+nano README.md
+````
+
+2. Cola o conteúdo acima, guarda com `CTRL+O`, depois `ENTER`, e sai com `CTRL+X`.
+
+3. Comita e envia:
+
+```bash
+git add README.md
+git commit -m "Adiciona README com créditos e instruções"
+git push origin main
 ```
-  -t, --theme VARIANT     Specify theme variant(s) [whitesur|monterey|ventura] (Default: All variants)s)
-  -s, --screen VARIANT    Specify screen variant [1080p|2k|4k] (Default: 4k)
-  -u, --uninstall         Uninstall wallpappers
-  -h, --help              Show help
-```
 
-### Install Normal Wallpapers
+---
 
-```sh
-./install-wallpapers.sh
-```
-
-> Options:
-
-```
-  -t, --theme VARIANT     Specify theme variant(s) [whitesur|monterey|ventura] (Default: All variants)s)
-  -c, --color VARIANT     Specify color variant(s) [night|light|dark] (Default: All variants)s)
-  -s, --screen VARIANT    Specify screen variant [1080p|2k|4k] (Default: 4k)
-  -n, --nord VARIANT      Specify Nord color variant(s)
-  -u, --uninstall         Uninstall wallpappers
-  -h, --help              Show help
-```
-
-## Ventura Wallpapers
-![preview](preview-ventura.png)
-
-## Monterey Wallpapers
-![preview](preview-monterey.png)
-
-## WhiteSur (Big Sur) Wallpapers
-![preview](preview-whitesur.png)
-
-## Nord Wallpapers
-![preview](preview-nord.png)
+Se quiser, também posso criar o `README.md` para um repositório de **ícones** ou **cursores** caso fores espelhar os temas relacionados. Desejas?
