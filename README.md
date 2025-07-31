@@ -1,12 +1,10 @@
 
-````markdown
 # WhiteSur Wallpapers (Espelho Pessoal)
 
 Este repositório contém uma cópia pessoal dos wallpapers oficiais do tema **WhiteSur**, inspirados no visual do macOS Big Sur e Monterey.
 
 > 🔗 Repositório original: [https://github.com/vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers)
 
-````
 ## 📌 Objetivo
 
 Este repositório foi criado apenas para:
@@ -43,11 +41,6 @@ As imagens estão sob a mesma licença do repositório original: **GPL v3**, com
 Todos os wallpapers foram criados por [vinceliuice](https://github.com/vinceliuice).
 Este repositório apenas espelha os arquivos originais para facilitar o uso pessoal e educacional.
 
----
-
-````
-
----
 
 ### ✅ Como adicionar ao GitHub
 
